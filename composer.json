@@ -1,5 +1,5 @@
 {
-    "name": "chargebee/chargebee-php",
+    "name": "deegitalbe/chargebee-php",
     "type": "library",
     "description": "ChargeBee API client implementation for PHP",
     "keywords": ["chargebee", "payments", "subscription billing", "recurring billing"],
