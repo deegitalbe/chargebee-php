@@ -1,3 +1,5 @@
+This a fork using Guzzle 7.
+
 # Chargebee PHP Client Library - API V2
 
 [![Packagist](https://img.shields.io/packagist/v/chargebee/chargebee-php.svg?maxAge=2592000)](https://packagist.org/packages/chargebee/chargebee-php)
@@ -18,7 +20,7 @@ PHP 5.6.0 or later
 ### Composer
 ```Chargebee``` is available on [Packagist](https://packagist.org/packages/chargebee/chargebee-php) and can be installed using [Composer](https://getcomposer.org/)
 
-<pre><code>composer require chargebee/chargebee-php</code></pre>
+<pre><code>composer require deegitalbe/chargebee-php</code></pre>
 
 To use the bindings, 
 <pre><code>require_once('vendor/autoload.php');</code></pre>
